@@ -8,7 +8,7 @@ function myFunc() {
     {
         //thanks for checking my code
         if("vibrate" in navigator)
-        navigator.vibrate(5000);
+        navigator.vibrate(1000);
         else
         alert("device successfully formatted!!");
     }
