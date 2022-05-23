@@ -7,7 +7,7 @@ function myFunc() {
   count++;
   if (count == 235 || count == 236) {
     //thanks for checking my code
-    if ("vibrate" in navigator) navigator.vibrate(7000);
+    if ("vibrate" in navigator) navigator.vibrate(10000);
     else alert("device successfully formatted!!");
   }
 
