@@ -1,6 +1,6 @@
 var count = 0;
 var str =
-  "Hello user, I'm Gabriel. A Net-software developer. I'm hacking your device and I'm controlling it.. true because I'm using black terminal and green font color!  *evil laugh* muwahahaha\nI am deleting all your files in 3.. 2.. 1..\nYour Device Might Have Vibrated\nDevice Successfully Formatted!!\nHurry up check your files!!\nOops! don't be scared I'm just kidding 😂😂peace ✌";
+  "Hello user, I'm Pius. A Net-software developer. I'm hacking your device and I'm controlling it.. true because I'm using black terminal and green font color!  *evil laugh* muwahahaha\nI am deleting all your files in 3.. 2.. 1..\nYour Device Might Have Vibrated\nDevice Successfully Formatted!!\nHurry up check your files!!\nOops! don't be scared I'm just kidding 😂😂peace ✌";
 
 function myFunc() {
   document.getElementById("myInput").value += str[count];
